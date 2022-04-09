@@ -7,5 +7,5 @@
     },
     "synoinfo": {},
     "ramdisk_copy": {},
-    "extensions": [pocopico.r8168]
+    "extensions": []
 }
